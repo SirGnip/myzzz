@@ -1,0 +1,5 @@
+total 4
+drw-rw-rw-  3 Scott 0    0 2014-05-29 08:19 .
+drw-rw-rw-  3 Scott 0    0 2014-05-29 08:19 ..
+drw-rw-rw-  7 Scott 0 4096 2014-05-29 08:19 .git
+-rw-rw-rw-  1 Scott 0    0 2014-05-29 08:19 dir.txt
