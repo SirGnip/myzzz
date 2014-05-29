@@ -6,3 +6,4 @@ drw-rw-rw-  7 Scott 0 4096 2014-05-29 08:19 .git
 EDIT 1 BLAH 
 EDIT 2 BLAH 
 EDIT 3 BLAH 
+EDIT 1 BR3 
